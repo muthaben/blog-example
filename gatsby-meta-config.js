@@ -14,7 +14,7 @@ module.exports = {
     name: `무타벤`,
     bio: {
       role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['원인을 찾는', '방법을 고민하는'],
       thumbnail: 'profile.jpeg', // Path to the image in the 'asset' folder
     },
     social: {
@@ -74,7 +74,7 @@ module.exports = {
       {
         title: "Runner's High",
         description:
-          '',
+          '러닝 메이트를 구하는 게시물을 등록하고 댓글과 채팅으로 다른 사용자와 소통할 수 있는 서비스입니다.',
         techStack: ['NodeJS', 'Express', 'MySQL', 'AWS S3', 'AWS CodePipeline'],
         thumbnailUrl: 'runnershigh.jpeg',
         links: {
